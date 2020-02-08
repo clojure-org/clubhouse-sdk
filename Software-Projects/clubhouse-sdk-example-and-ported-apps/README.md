@@ -1,0 +1,1 @@
+Take the examples identified in the community and from CLubhouse and port them to the Clojure SDK, 1) to ensure equal functionality and 2) to consider/demonstrate ways that the Clojure-Clubhouse-SDK is a better programming experience then the majority of available client-api-frameworks around.
